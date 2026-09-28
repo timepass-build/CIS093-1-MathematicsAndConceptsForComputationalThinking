@@ -8,3 +8,7 @@
 - String ASCII Capitalization
 - Number System Conversion and Number Analysis
 
+## Third Push
+- areaOfCircle.py - Class assignment - used basic math functions.
+- areaOfCircleUsingDiameter.py - CLass assignment - more practice.
+- manipulatingNumber.py - Class assignment - More compelx compared to the first number.
