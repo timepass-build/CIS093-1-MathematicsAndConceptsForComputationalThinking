@@ -12,3 +12,9 @@
 - areaOfCircle.py - Class assignment - used basic math functions.
 - areaOfCircleUsingDiameter.py - CLass assignment - more practice.
 - manipulatingNumber.py - Class assignment - More compelx compared to the first number.
+
+## Fourth Push
+- Just did some task from class and pushed it.
+
+# Random Push
+- Learned basic of python already from Programiz, so just doing any assingmnet or task given by the teacher for now.
